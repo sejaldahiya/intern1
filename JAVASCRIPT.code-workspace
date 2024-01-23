@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../weather"
+		},
+		{
+			"path": "../../to do list"
+		},
+		{
+			"path": "../../web devlopment"
+		},
+		{
+			"path": "../../tesla"
+		}
+	],
+	"settings": {}
+}
